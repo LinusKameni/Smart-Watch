@@ -1,6 +1,6 @@
 # Smart-Watch
 This repository represents the source code for a LILYGO T-WATCH. Three main functionalities have been integrated: 
-A running mode, which can be activated while jogging and measures the covered distance, as well as calculates the calorie consumption. 
+A running mode, which can be activated while jogging to measure the covered distance, as well as to calculate the calorie consumption. 
 A timer mode that starts a vibration alarm when the timer expires.  
 A memory mode, which is a memory game based on "Simon Says".
 
